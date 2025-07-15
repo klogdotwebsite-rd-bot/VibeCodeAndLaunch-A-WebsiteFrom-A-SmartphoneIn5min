@@ -2,7 +2,7 @@
 
 This is a website that serves my blog post with some visuals along with a book on how to make your own programming language. 
 
-*** Which I didn't make so if you can consider supporting the guy that made the book ***
+***Which I didn't make BTW so if you can consider supporting the guy that made the book***
 
 
 ### How to run
