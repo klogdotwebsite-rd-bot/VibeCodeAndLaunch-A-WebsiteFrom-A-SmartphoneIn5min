@@ -14,6 +14,7 @@ cd VibeCodeAndLaunch-A-WebsiteFrom-A-SmartphoneIn5min
 
 make run # That's it
 
+# Just copy this and paste it into a terminal
 ```
 ## PLUS
 
